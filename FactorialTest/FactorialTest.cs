@@ -40,7 +40,7 @@ namespace FactorialTest
             long result = f.GetFactorial(1);
 
             //verification
-            Assert.AreEqual(1, result);
+            Assert.AreEqual(100, result);
         }
 
         [TestMethod]
