@@ -29,7 +29,7 @@ namespace FactorialTest
             long result = f.GetFactorial(0);
 
             //verification
-            Assert.AreEqual(1, result);
+            Assert.AreEqual(2, result);
         }
 
         [TestMethod]
